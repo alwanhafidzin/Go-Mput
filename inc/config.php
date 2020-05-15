@@ -9,7 +9,7 @@
 }
 	
 	// settings
-	$url = "http://localhost/gomput/";
+	$url = "http://localhost/Go-Mput/";
 	$title = "Go-Mput";
 	$no = 1;
 	
